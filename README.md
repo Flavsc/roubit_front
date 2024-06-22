@@ -29,14 +29,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/84195990?v=4" width="100px;" alt="era uma foto daora"/><br>
-        <sub>
-          <p><b><i>Thiago Ulloa:</i></b> <a href="https://github.com/thiagoulloa"><i>thiagoulloa</i></a></p>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
         <img src="https://avatars.githubusercontent.com/u/133230074?v=4" width="100px;" alt="era uma foto daora"/><br>
         <sub>
           <p><b><i>Verina Wadie:</i></b> <a href="https://github.com/vewadie"><i>vewadie</i></a></p>
