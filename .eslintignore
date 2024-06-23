@@ -1,0 +1,9 @@
+node_modules/
+iac
+.github/
+android/
+ios/
+.husky/
+__tests__/
+.bundle/
+assets/
