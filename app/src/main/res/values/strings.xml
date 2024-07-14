@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Roubit</string>
+    <string name="welcome_message">Bem-vindo ao Roubit!</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Registrar</string>
+    
+    <string name="title_activity_main">Tela Inicial</string>
+    <string name="title_activity_login">Tela de Login</string>
+    <string name="title_activity_register">Tela de Cadastro</string>
+    <string name="title_activity_settings">Tela de Configurações</string>
+    <string name="title_activity_audio_settings">Tela de Configuração de Áudio</string>
+    <string name="title_activity_notification_settings">Tela de Configuração de Notificação</string>
+    <string name="title_activity_tasks">Tela de Tarefas</string>
+    <string name="title_activity_add_task">Tela de Adicionar Tarefa</string>
+    <string name="title_activity_modify_task">Tela de Modificar Tarefa</string>
+    <string name="title_activity_cosmetics">Tela de Cosméticos</string>
+    <string name="title_activity_user_settings">Tela de Configuração de Usuário</string>
+    <string name="title_activity_streak">Tela de Streak</string>
+    <string name="title_activity_profile">Tela de Perfil</string>
+</resources>
